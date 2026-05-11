@@ -2,11 +2,11 @@
 
 Microservicio encargado de la gestión de planes de suscripción y membresías para la reducción de huella alimentaria.
 
-## ⚙️ Configuración
+##  Configuración
 - **Puerto**: 8082
 - **Context Path**: /subscriptions
 
-## 🛠️ Comandos Rápidos
+##  Comandos Rápidos
 - **Compilar**: `mvn clean install`
 - **Correr**: `mvn spring-boot:run`
 
