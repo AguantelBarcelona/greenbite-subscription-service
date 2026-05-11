@@ -1,1 +1,2 @@
-# Subscription Service\n\nmvn spring-boot:run\n
+# Subscription Service
+mvn spring-boot:run
