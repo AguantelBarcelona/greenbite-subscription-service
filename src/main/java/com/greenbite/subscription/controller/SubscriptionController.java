@@ -8,6 +8,6 @@ import java.util.List;
 public class SubscriptionController {
     @GetMapping
     public List<String> getPlans() {
-        return List.of("Basic", "Premium");
+        return List.of("Basic", "Premium", "Green-Life Plan");
     }
 }
